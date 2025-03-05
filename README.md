@@ -1,10 +1,9 @@
-# Hello, I'm TZBAvyy 👋
+# Hello, I'm Avisena but you can call me Avi! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for continuous learning. Below you'll find more information about me, my skills, and my work.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various open-source projects
 - 🌱 I’m always learning new technologies and improving my skills
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about web development, open-source, and anything tech-related
@@ -35,5 +34,6 @@ Feel free to explore my repositories and contribute!
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/avisena-gibraltar)
+- [Email](mailto:gibraltar.av@gmail.com)
 
 Thanks for visiting my profile! 😊

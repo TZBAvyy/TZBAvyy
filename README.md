@@ -16,10 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for continu
 - **Databases:** MySQL, SQLite, MongoDB
 - **Tools & Platforms:** Git, Docker
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TZBAvyy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TZBAvyy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TZBAvyy&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ## 📂 Repositories
 
